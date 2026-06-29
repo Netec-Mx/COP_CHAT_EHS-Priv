@@ -1,3 +1,5 @@
+
+
 # COPILOT EN EHS Y SEGURIDAD PATRIMONIAL
 
 Este programa integral de 7 horas capacita a los profesionales de seguridad, medio ambiente y protección patrimonial en el uso estratégico de Microsoft Copilot Chat. El curso transita desde la automatización de tareas administrativas y redacción de políticas, hasta el análisis avanzado de indicadores y la investigación de incidentes mediante inteligencia artificial, garantizando una adopción funcional y técnica de la herramienta.
@@ -56,8 +58,12 @@ Este programa integral de 7 horas capacita a los profesionales de seguridad, med
   - Descripción: Aplicación práctica de interconexión departamental de agentes mediante las actividades descritas en la práctica para consolidar los contenidos del capítulo.
   - Duración estimada: 90 min
 
-## Flujo de colaboración
+---
 
-- Trabajar en `changes_course`.
-- Crear Pull Request hacia `main`.
-- Merge por `Squash and merge`.
+## 📬 **Contacto y más información**
+
+Si tienes alguna pregunta o necesitas más detalles, no dudes en [contactarnos](mailto:soporte@netec.com). También puedes encontrar más recursos en nuestra [página](https://netec.com).
+
+---
+
+¡Gracias por visitar nuestra plataforma! No olvides revisar todos los laboratorios y comenzar tu viaje de aprendizaje hoy mismo.
