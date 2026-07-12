@@ -1,6 +1,6 @@
 # COPILOT EN EHS Y SEGURIDAD PATRIMONIAL
 
-Este programa integral de 7 horas capacita a los profesionales de seguridad, medio ambiente y protección patrimonial en el uso estratégico de Microsoft Copilot Chat. El curso transita desde la automatización de tareas administrativas y redacción de políticas, hasta el análisis avanzado de indicadores y la investigación de incidentes mediante inteligencia artificial, garantizando una adopción funcional y técnica de la herramienta.
+Este programa integral de 15 horas capacita a los profesionales de seguridad, medio ambiente y protección patrimonial en el uso estratégico de Microsoft Copilot Chat. El curso transita desde la automatización de tareas administrativas y redacción de políticas, hasta el análisis avanzado de indicadores y la investigación de incidentes mediante inteligencia artificial, garantizando una adopción funcional y técnica de la herramienta.
 
 ## Estructura
 
