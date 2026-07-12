@@ -1,4 +1,4 @@
-# Práctica 7 — Conexión de Copilot para Enviar Reportes por Email
+# Conexión de Copilot para Enviar Reportes por Email
 
 ## 1. Metadatos del Laboratorio
 
