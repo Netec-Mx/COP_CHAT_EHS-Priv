@@ -1,4 +1,4 @@
-Creación de un Page Básico para Registrar Incidentes de Seguridad
+# Creación de un Page Básico para Registrar Incidentes de Seguridad
 
 ## 1. Metadatos del Laboratorio
 
